@@ -1,3 +1,28 @@
+<<<<<<< README.md
+# Panduan Instalasi :
+
+1. Download dan Instal Aplikasi Xampp dan Composer di Komputer.<br>
+2. Clone source code tersebut dengan git clone https://gitlab.com/lghani/invoice.git.<br>
+3. Aktifkan Apache dan MySQL pada Xampp.<br>
+4. Buka browser, lalu buka alamat localhost/phpMyAdmin.<br>
+5. Buat database baru dengan nama lghani-invoice.<br>
+6. Import database aplikasi ke dalam database lghani-invoice.(Php artisan Migrate)<br>
+7. Buka terminal di dalam project, ketikan php artisan serve.<br>
+8. Jalankan project dengan ketik http://127.0.0.1:8000/.<br>
+9. Login dengan email : lghani_travel@ymail.com, Password : admin123. Role : Admin<br>
+9. Login dengan email : fadhiilmh22@gmail.com, Password : admin123. Role : Staff<br>
+10. Selesai.
+11. Jika mengalami error pada import database bisa unduh database secara manual pada struktur file source code diatas. (lghani-invoice.sql)
+12. Adapun aplikasi ini sudah dilakukan hosting dengan domain lghani.my.id
+=======
+# invoice
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
