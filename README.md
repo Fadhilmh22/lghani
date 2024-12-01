@@ -2,7 +2,7 @@
 # Panduan Instalasi :
 
 1. Download dan Instal Aplikasi Xampp dan Composer di Komputer.<br>
-2. Clone source code tersebut dengan git clone https://gitlab.com/lghani/invoice.git.<br>
+2. Clone source code tersebut dengan git clone https://github.com/Fadhilmh22/lghani.git.<br>
 3. Aktifkan Apache dan MySQL pada Xampp.<br>
 4. Buka browser, lalu buka alamat localhost/phpMyAdmin.<br>
 5. Buat database baru dengan nama lghani-invoice.<br>
